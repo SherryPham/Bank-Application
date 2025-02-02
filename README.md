@@ -1,6 +1,6 @@
-# 🏦 BankingApplication
+# 🏦 Banking Application
 
-Welcome to **BankingApplication**! This is a simple and interactive console-based banking system written in Java. Whether you want to check your balance, deposit some savings, or withdraw funds, this application makes it easy and fun! 🚀
+Welcome to **Banking Application**! This is a simple and interactive console-based banking system written in Java. Whether you want to check your balance, deposit some savings, or withdraw funds, this application makes it easy and fun! 🚀
 
 ## 💡 Features
 
